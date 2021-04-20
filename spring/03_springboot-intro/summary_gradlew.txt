@@ -1,0 +1,4 @@
+1. ./gradlew build
+2. cd build/libs
+3. java -jar ~.jar
+4. 실행확인
